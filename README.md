@@ -24,3 +24,6 @@ It consists of all information concerning football players such as player names,
 ✅ Ensure data types match expected values and correct inconsistencies.  
 
 ## Data Cleaning Process
+Data cleaning process is in the fifa data cleaning which is astep by step explanation of how the data is cleaned using Python.
+
+## Conclusion
