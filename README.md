@@ -10,3 +10,17 @@ Welcome to the FIFA Dataset Data Cleaning and Transformation project! This proje
 It consists of all information concerning football players such as player names, age, clubs, nationality, wages, positions, performance ratings, height & weight etc. The raw dataset before cleaning consists of 18979 rows and 76 columns.
 
 ## Objectives
+1️⃣ The main objective of this data challenge was to learn, improve skills and network with like-mind and get to build a worthy-portfolio project.  
+2️⃣ Fix Inconsistent Data Formats    
+✅ Convert dates, numbers, and categorical data into a consistent format.  
+3️⃣ Remove Duplicates  
+🔍 Objective: Ensure unique records for accurate analysis.  
+✅ Identify and drop duplicate rows.  
+5️⃣ Standardize Text Data  
+🔍 Objective: Make text-based data consistent.  
+✅ Trim spaces, and remove special characters.  
+7️⃣ Ensure Data Integrity & Consistency  
+🔍 Objective: Validate data accuracy before analysis.  
+✅ Ensure data types match expected values and correct inconsistencies.  
+
+## Data Cleaning Process
